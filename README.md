@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Indraja
 - 👀 I’m interested in Developing 
-- 🌱 I’m currently learning Android app development
+- 🌱 I’m currently learning Fullstack Python
 - 📫 How to reach me indrajaingavale1234@gmail.com
 
 
